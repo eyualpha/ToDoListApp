@@ -4,24 +4,33 @@
     "slug": "Todo-List",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon123.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/123.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1C588C"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/icon123.png",
+        "backgroundColor": "#1C588C"
+      },
+      "permissions": [
+        "NOTIFICATIONS"
+      ],
+      "package": "com.eyu.a.asyncStorage"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8fab2956-9894-4ac3-aaba-c87004a47ad5"
+      }
     }
   }
 }
