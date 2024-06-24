@@ -1,11 +1,10 @@
-import { StatusBar } from "expo-status-bar";
-import { View } from "react-native";
+import React from "react";
+import TodoApp from "./src/screens/TodoApp";
 
 export default function App() {
   return (
-    <View>
-      <StatusBar style="auto" />
-      
-    </View>
+    <>
+      <TodoApp />
+    </>
   );
 }
