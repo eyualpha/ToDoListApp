@@ -29,6 +29,17 @@ const styles = StyleSheet.create({
     justifyContent: "flex-end",
     marginBottom: 0,
   },
+  title: {
+    color: "#fff",
+    fontWeight: "bold",
+    fontSize: 30,
+  },
+  titleIconContainer: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginHorizontal: 20,
+    marginBottom: 10,
+  },
  
 });
 
