@@ -12,7 +12,7 @@ A simple and elegant Todo App built using React Native and Expo. The app feature
 - [Cloning and Project Setup](#cloning-and-project-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Group Members](#Group)
+- [Group Members](#members)
 - [License](#license)
 
 ## Description
@@ -94,7 +94,7 @@ Contributions are what make the open-source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-### Group Members
+## Members
 
 1. Eyu Ashenafi -       		 UGR/25481/14
 2. Sumeya Adem   -		 UGR /25313/14
@@ -103,7 +103,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 5. Yonas Bezawerk  	-	UGR /25547/14
 6. Natnael Chala     -   		UGR /25371/14
 7. Abyalew Lobe       -  		UGR /25903/14
-8. 
 
 ---
 
