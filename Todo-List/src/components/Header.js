@@ -20,4 +20,16 @@ const Header = (props) => {
     </View>
   );
 };
+export default Header;
+
+const styles = StyleSheet.create({
+  container: {
+    height: 100,
+    backgroundColor: "#1C588C",
+    justifyContent: "flex-end",
+    marginBottom: 0,
+  },
+ 
+});
+
 
