@@ -59,7 +59,7 @@ To get a local copy up and running, follow these steps:
 2. **Navigate to the project directory:**
 
    ```sh
-   cd react-native-todo-app
+   cd Todo-List
    ```
 
 3. **Install dependencies:**
