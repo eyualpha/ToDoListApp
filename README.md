@@ -1,6 +1,6 @@
 
 
-# TodoList App
+##TodoList App
 -------
 A simple and elegant Todo App built using React Native and Expo. The app features task creation, editing, deletion, notifications for tasks, and dark mode support.
 
